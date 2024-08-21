@@ -1,5 +1,4 @@
-package src;
-
+package abstracts;
 public abstract class AnimalTerrestreAB extends AnimalAB {
     protected int quantidadePatas;
 

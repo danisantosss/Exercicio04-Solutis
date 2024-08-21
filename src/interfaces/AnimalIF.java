@@ -1,4 +1,4 @@
-package src;
+package interfaces;
 
 public interface AnimalIF {
     void comer(int quantidade);

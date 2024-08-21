@@ -1,4 +1,5 @@
-package src;
+package abstracts;
+import interfaces.AnimalIF;
 
 public abstract class AnimalAB implements AnimalIF {
     protected int quantidadeComida;
